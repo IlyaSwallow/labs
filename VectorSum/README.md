@@ -9,7 +9,7 @@
 
 На графике ниже представлено время работы каждого из перечисленных методов. Итеративный подход оказался самым медленным.
 
-![sum vector](/assets/sum%20vector.png)
+https://github.com/IlyaSwallow/labs/blob/main/images/sum%20vector.png?raw=true
 
 ---
 
