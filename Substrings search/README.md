@@ -17,7 +17,7 @@
 
 На рисунке предствален график ускорения работы  программы на GPU по сравнению с CPU  при GridDim (4,4) и BlockDim(8,8): 
 
-![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_mass_search/ускорение.jpg)
+![График](https://github.com/IlyaSwallow/labs/blob/main/Substrings%20search/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.jpg)
 
 
 
